@@ -1,0 +1,7 @@
+--> Bootstrap is used for easy designing of webpages since it has many built-in classes which helps to use pre designed templates.
+--> All the built-in classes are available in bootstrap documentation. "https://getbootstrap.com/"
+--> TO use bootstrap in html, 1) use the reference link in head of html (online). 2) download the bootstrap & use bootstrap.css file in head of html (offline).
+--> There are multiple button designs are available, refer button docs in website.
+--> It is possible to override your design with your own .css file on top of bootstrap.
+--> "container" class is used to provide its own desion to template such as margin, font-style, etc.
+--> Jumbotron indicates a big box for calling extra attention to some special content or information.
