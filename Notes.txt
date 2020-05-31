@@ -5,3 +5,4 @@
 --> It is possible to override your design with your own .css file on top of bootstrap.
 --> "container" class is used to provide its own desion to template such as margin, font-style, etc.
 --> Jumbotron indicates a big box for calling extra attention to some special content or information.
+--> There are multiple in-built classes for Forms as well.
