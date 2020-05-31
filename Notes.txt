@@ -6,3 +6,4 @@
 --> "container" class is used to provide its own desion to template such as margin, font-style, etc.
 --> Jumbotron indicates a big box for calling extra attention to some special content or information.
 --> There are multiple in-built classes for Forms as well.
+--> Nab bar feature in bootstrap helps to better design of Navigation bars in the website. It is possible to fix the nav bar even if we scroll the website, possible to get hamburger icon on left, if we resize the webpage. check out documentation for details.
